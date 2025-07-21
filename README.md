@@ -36,6 +36,9 @@ A desktop GUI application that detects drowsiness using a pre-trained machine le
 6. Run the app:
    ```bash
    python modern_ui.py
-   
+
+## Future Enhancement:
+    Beep alert when drowsiness is detected
+    
 ## 🙋‍♀️ Author
 Pavithra Revankar
