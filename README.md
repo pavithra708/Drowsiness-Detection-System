@@ -15,6 +15,8 @@ A desktop GUI application that detects drowsiness using a pre-trained machine le
 
 ## 🖥️ Screenshot
 
+![Drowsiness Detection UI](assets/sample_image.png)
+![Drowsiness Detection UI](assets/sample_image1.png)
 
 ---
 
@@ -25,11 +27,14 @@ A desktop GUI application that detects drowsiness using a pre-trained machine le
    git clone https://github.com/YOUR_USERNAME/drowsy-det-sys.git
    cd drowsy-det-sys
 2. (Optional) Create and activate a virtual environment:
+   ```bash
    python -m venv venv
    venv\Scripts\activate     # For Windows
-3. Install required packages:
+4. Install required packages:
+   ```bash
    pip install -r requirements.txt
-4. Run the app:
+6. Run the app:
+   ```bash
    python modern_ui.py
    
 ## 🙋‍♀️ Author
