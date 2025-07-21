@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VSCode and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Model files (optional)
+*.pkl
