@@ -15,9 +15,6 @@ A desktop GUI application that detects drowsiness using a pre-trained machine le
 
 ## 🖥️ Screenshot
 
-![Drowsiness Detection UI](assets/sample_image.jpg)
-![Drowsiness Detection UI](assets/sample_image1.jpg)
-
 
 ---
 
